@@ -26,6 +26,15 @@
 * Undo/Redo for every operation and support for [non-linear undo](https://imgur.com/9I42fZK).
 * [More features &amp; tips](https://twitter.com/aseprite/status/1124442198651678720)
 
+## About This Project
+🎮 My Pixel Art Journey with Aseprite
+* I'm currently developing a 2D pixel game in Unity, and I’ve been searching for the right software to create pixel art. After trying several different programs, I      found that I like Aseprite the most—specifically the demo version. Unfortunately, the free demo has some limitations, and I don’t have the $20 needed to purchase the full version on Steam.
+Luckily, Aseprite has an open-source version available that can be downloaded and built manually. The latest open-source release at the moment is Aseprite v1.3.15, but I’ve had trouble getting it to work properly. Still, I believe this version will be good enough for my project.
+
+🛠️ How to Run or Build the App
+* To run the app, navigate to build/bin/aseprite.exe and launch it.
+* If you want to build the software yourself, delete everything inside the build folder and follow the instructions provided on the Aseprite open-source GitHub page.
+
 ## Issues
 
 There is a list of
